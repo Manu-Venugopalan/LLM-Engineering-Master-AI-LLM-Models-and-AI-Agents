@@ -1,4 +1,13 @@
 # LLM-Engineering-Master-AI-LLM-Models-and-AI-Agents
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+![LLM Engineering](https://img.shields.io/badge/LLM%20Engineering-GPT%2C%20Claude%2C%20Hugging%20Face-blueviolet)
+![RAG](https://img.shields.io/badge/Feature-RAG%20Pipeline-orange)
+![Agentic AI](https://img.shields.io/badge/Feature-Agentic%20AI-red)
+![Hugging Face](https://img.shields.io/badge/Tools-Hugging%20Face%2C%20Gradio-yellow)
+![OpenAI](https://img.shields.io/badge/API-OpenAI%20%2F%20Claude-ff69b4)
+![Capstone](https://img.shields.io/badge/Project-Capstone%20AI%20Agents-green)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ## 🚀 Mastering LLM Engineering in 8 Weeks
 
 This repository documents my journey through an 8-week hands-on course on **Large Language Model (LLM) Engineering**, covering cutting-edge techniques in prompt engineering, fine-tuning, RAG pipelines, agentic AI, and more — using tools like **OpenAI**, **Claude**, **Hugging Face**, **Gradio**, and **Olama**.
